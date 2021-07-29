@@ -1,0 +1,288 @@
+[
+    [
+        {
+            "code": "AZUL4",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "B3SA3",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "CCRO3",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "GNDI3",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "JHSF3",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "RAIL3",
+            "ownername": "Capital Research Global Investors"
+        },
+        {
+            "code": "VALE3",
+            "ownername": "Capital Research Global Investors"
+        }
+    ],
+    [
+        {
+            "code": "AZUL4",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "BRAP4",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "CMIG4",
+            "ownername": "BlackRock Inc."
+        },
+        {
+            "code": "COGN3",
+            "ownername": "BlackRock, Inc"
+        },
+        {
+            "code": "EQTL3",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "GNDI3",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "ITSA4",
+            "ownername": "BlackRock Inc."
+        },
+        {
+            "code": "KLBN11",
+            "ownername": "BlackRock Inc"
+        },
+        {
+            "code": "LWSA3",
+            "ownername": "BlackRock, Inc"
+        },
+        {
+            "code": "PETR3",
+            "ownername": "BlackRock Inc"
+        },
+        {
+            "code": "PETR4",
+            "ownername": "BlackRock Inc"
+        },
+        {
+            "code": "RENT3",
+            "ownername": "BlackRock Inc."
+        },
+        {
+            "code": "SULA11",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "TOTS3",
+            "ownername": "BlackRock, Inc"
+        },
+        {
+            "code": "UGPA3",
+            "ownername": "BlackRock Inc."
+        },
+        {
+            "code": "VALE3",
+            "ownername": "BlackRock, Inc."
+        },
+        {
+            "code": "VVAR3",
+            "ownername": "BlackRock Inc."
+        }
+    ],
+    [
+        {
+            "code": "BBDC3",
+            "ownername": "NCF Participações S.A."
+        },
+        {
+            "code": "BBDC4",
+            "ownername": "NCF Participações S.A."
+        },
+        {
+            "code": "BRAP4",
+            "ownername": "NCF Participações S.A."
+        }
+    ],
+    [
+        {
+            "code": "BBDC3",
+            "ownername": "Fundação Bradesco"
+        },
+        {
+            "code": "BBDC4",
+            "ownername": "Fundação Bradesco"
+        },
+        {
+            "code": "BRAP4",
+            "ownername": "Fundação Bradesco"
+        }
+    ],
+    [
+        {
+            "code": "BRML3",
+            "ownername": "Capital International Investors"
+        },
+        {
+            "code": "CCRO3",
+            "ownername": "Capital International Investors"
+        },
+        {
+            "code": "GGBR4",
+            "ownername": "Capital International Investors"
+        },
+        {
+            "code": "GOLL4",
+            "ownername": "Capital International Investors"
+        },
+        {
+            "code": "HYPE3",
+            "ownername": "Capital International Investors"
+        },
+        {
+            "code": "LAME4",
+            "ownername": "Capital International Investors"
+        }
+    ],
+    [
+        {
+            "code": "CPLE6",
+            "ownername": "Victor Adler"
+        },
+        {
+            "code": "ELET3",
+            "ownername": "Victor Adler"
+        },
+        {
+            "code": "ELET6",
+            "ownername": "Victor Adler"
+        }
+    ],
+    [
+        {
+            "code": "CPLE6",
+            "ownername": "BNDES Participações S.A. - BNDESPAR"
+        },
+        {
+            "code": "ELET3",
+            "ownername": "BNDES Participações S.A. - BNDESPAR"
+        },
+        {
+            "code": "ELET6",
+            "ownername": "BNDES Participações S.A. - BNDESPAR"
+        },
+        {
+            "code": "JBSS3",
+            "ownername": "BNDES Participações S.A. - BNDESPAR"
+        }
+    ],
+    [
+        {
+            "code": "CYRE3",
+            "ownername": "Dynamo Administração de Recursos Ltda."
+        },
+        {
+            "code": "ENEV3",
+            "ownername": "Dynamo Administração de Recursos Ltda."
+        },
+        {
+            "code": "NTCO3",
+            "ownername": "Dynamo Administração de Recursos Ltda."
+        }
+    ],
+    [
+        {
+            "code": "ELET3",
+            "ownername": "3G Radar Gestora de Recursos Ltda."
+        },
+        {
+            "code": "ELET6",
+            "ownername": "3G Radar Gestora de Recursos Ltda."
+        },
+        {
+            "code": "ENBR3",
+            "ownername": "3G Radar Gestora de Recursos Ltda."
+        }
+    ],
+    [
+        {
+            "code": "ELET3",
+            "ownername": "União Federal"
+        },
+        {
+            "code": "ELET6",
+            "ownername": "União Federal"
+        },
+        {
+            "code": "IRBR3",
+            "ownername": "União Federal"
+        },
+        {
+            "code": "PETR3",
+            "ownername": "União Federal"
+        },
+        {
+            "code": "PETR4",
+            "ownername": "União Federal"
+        }
+    ],
+    [
+        {
+            "code": "ELET3",
+            "ownername": "Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+        },
+        {
+            "code": "ELET6",
+            "ownername": "Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+        },
+        {
+            "code": "PETR3",
+            "ownername": "Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+        },
+        {
+            "code": "PETR4",
+            "ownername": "Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+        }
+    ],
+    [
+        {
+            "code": "EMBR3",
+            "ownername": "BNDES Participações - BNDESPar"
+        },
+        {
+            "code": "PETR3",
+            "ownername": "BNDES Participações - BNDESPar"
+        },
+        {
+            "code": "PETR4",
+            "ownername": "BNDES Participações - BNDESPar"
+        }
+    ],
+    [
+        {
+            "code": "EQTL3",
+            "ownername": "Schroder Investment Management Brasil Ltda"
+        },
+        {
+            "code": "GGBR4",
+            "ownername": "Schroder Investment Management Brasil Ltda"
+        },
+        {
+            "code": "LREN3",
+            "ownername": "Schroder Investment Management Brasil Ltda."
+        },
+        {
+            "code": "RADL3",
+            "ownername": "Schroder Investment Management Brasil Ltda."
+        }
+    ]
+]
